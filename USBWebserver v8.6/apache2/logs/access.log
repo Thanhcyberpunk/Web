@@ -1,0 +1,2 @@
+::1 - - [15/Sep/2024:08:35:10 +0700] "GET / HTTP/1.1" 200 511441
+::1 - - [15/Sep/2024:08:35:12 +0700] "GET /image/cache/catalog/banner/banner%205-500x300.jpg HTTP/1.1" 304 -
